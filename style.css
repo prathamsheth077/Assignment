@@ -12,7 +12,7 @@
 .contaner
 {
     display: flex;
-    font-family:sans-serif;
+    font-family:poppins;
 }
 
 img
@@ -38,7 +38,7 @@ b{
 
 *
 {
-    font-family: sans-serif;
+    font-family: poppins ;
 }
 
 .hadding
