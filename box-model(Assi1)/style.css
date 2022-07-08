@@ -1,0 +1,47 @@
+.flex_box
+{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    
+    margin: 10px;
+    border-radius:10px;
+  
+}
+
+.contaner
+{
+    display: flex;
+    font-family:poppins;
+}
+
+img
+{
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    margin-bottom:30px;  
+}
+
+b{
+    padding: 10px;
+    color:white;
+    font-size: 20px;
+}
+
+.as_desc
+{
+    padding-left: 10px;
+    padding-top:5px;
+    color:white;
+}
+
+*
+{
+    font-family: poppins ;
+}
+
+.hadding
+{
+    padding-left: 12px;
+}
