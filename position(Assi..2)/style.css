@@ -1,0 +1,50 @@
+
+.card
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rel
+{
+    position: relative;
+    top: 0;
+    color:white;
+    padding: 95px ;
+    
+
+}
+.abs
+{
+    position: absolute;
+}
+.btn
+{
+    background-color: rgb(255, 106, 0);
+    font-weight: bold;
+    font-size: 20px;
+    height: 45px;
+    color:white;
+    border-radius: 25px;
+    border:none;
+    width:150px;
+    cursor: pointer;   
+}
+.para1
+{
+    width:630px;
+    font-size:24px;
+
+}
+.heading
+{
+    font-size: 45px;
+    width:400px;
+    
+}
+.btn:hover{
+    
+    background-color: rgb(255, 30, 0);
+}
+.help
+{
+    font-size:17px;
+}
