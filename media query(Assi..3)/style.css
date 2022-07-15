@@ -1,0 +1,102 @@
+
+.card
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rel
+{
+    position: relative;
+    
+    color:white;
+    padding: 95px ;
+    
+
+}
+.abs
+{
+    position: absolute;
+}
+.btn
+{
+    background-color: rgb(255, 106, 0);
+    font-weight: bold;
+    font-size: 20px;
+    height: 45px;
+    color:white;
+    border-radius: 25px;
+    border:none;
+    width:150px;
+    cursor: pointer;   
+}
+.para1
+{
+    width:60%;
+    font-size:25px;
+
+}
+.heading
+{
+    font-size: 45px;
+    width:400px;
+    
+}
+.btn:hover{
+    
+    background-color: rgb(255, 30, 0);
+}
+.help
+{
+    font-size:17px;
+}
+@media(max-width:900px)
+{
+    
+.card
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rel
+{
+    
+    color:black;
+    padding-top: 40% ;
+    
+
+}
+.abs
+{
+    position: absolute;
+}
+.btn
+{  
+      background-color: rgb(255, 106, 0);
+    font-weight: bold;
+    font-size: 20px;
+    height: 45px;
+    color:white;
+    border-radius: 25px;
+    border:none;
+    width:150px;
+    cursor: pointer;  
+}
+.para1
+{
+    width:75%;
+    font-size:25px;
+
+}
+.heading
+{
+    font-size: 45px;
+    width:400px;
+    
+}
+.btn:hover{
+    
+    background-color: rgb(255, 30, 0);
+}
+.help
+{
+    font-size:17px;
+}
+}
